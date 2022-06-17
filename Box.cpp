@@ -12,7 +12,7 @@
     }
 
  int Box:: getLength(){
-   return length;
+   return length ;
  }
  int Box:: getWidth(){
    return width;

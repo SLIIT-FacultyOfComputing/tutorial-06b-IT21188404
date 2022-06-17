@@ -10,6 +10,6 @@ void Student::assignDetails(int stdid,char name1[]) {
 
 
 void Student::display() {
-  cout<<studentId<<endl<<name;
+  cout<<studentId<<endl<<name ;
   
 }

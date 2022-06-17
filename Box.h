@@ -12,5 +12,5 @@ class Box {
  int getWidth();
  int getHeight();
 
-       int calcVolume();
+       int calcVolume() ;
 };
